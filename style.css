@@ -1,0 +1,65 @@
+body
+{
+    background-color: #fff9;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+}
+header
+{
+    position: fixed;
+    padding: auto;
+    display: block;
+    width: 130px;
+    height: 300px;
+    padding: 5px;
+
+}
+.ul-low
+{
+    color: transparent;
+}
+.ul-low a
+{
+    text-decoration: none;
+    color: black;
+    position: fixed;
+    display: block;
+    
+}
+main { 
+    margin: 10px 10% 60px 220px;
+    padding: 0px 25px;
+    color: black;
+}
+.title
+{
+    color: black;
+    text-decoration: underline solid rgb(255, 115, 0);
+    padding: 4,5vh;
+}
+.boysandgirl
+{
+    width: 450;
+    height: 216;
+}
+button
+{
+    border-radius: 10px;
+}
+button a
+{
+    color: #000;
+    text-decoration: none;
+    transition: all;
+}
+.image
+{
+    border-radius: 8px;
+
+}
+.map
+{
+    border-radius: 5px;
+}
+
+
